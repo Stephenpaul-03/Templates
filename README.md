@@ -4,6 +4,7 @@ This repo contains multiple starter templates for different projects. Each templ
 ## Included Templates
 * ##### Web
     * Starter : React + Vite + TailwindCSS + Shadcn (Dark Mode Preconfigured)
+    * e2e : React + Vite + TailwindCSS + Shadcn(Dark Mode Preconfigured) + Netlify Functions + Supabase
 
 * ##### Node Package
     * Starter : Basic template with basic cli setup and command-based routing.  
