@@ -9,6 +9,7 @@ This repo contains multiple starter templates for different projects. Each templ
 
 * ##### React Native
   * **native-web-starter** : React Native template that runs on Web(webpack), Android and IOS
+  * **expo-native-web-starter** : Expo React Native template that runs on Web,Android and IOS
 
 * ##### Node Package
   * **npx-starter** : Basic template with cli setup and command-based routing
